@@ -1,7 +1,4 @@
-# multilingualblog
 
-# Multiple Language Website in PHP & MySQL (English, Nepali, Chinese)
-This is a simple blog website which supports multi-languages (english, nepali and chinese). This is just for educational purpose.
 
 # Multiple Language Website in PHP & MySQL (English, Nepali, Chinese)
 This is a simple blog website which supports multi-languages (english, nepali and chinese). This is just for educational purpose.
